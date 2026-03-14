@@ -12,7 +12,7 @@ pip install requests
 
 ### 2. Get Your Cloudflare Credentials
 
-#### API Token (Recommended)
+#### API Token
 1. Log in to your Cloudflare dashboard
 2. Go to My Profile → API Tokens
 3. Click "Create Token"
