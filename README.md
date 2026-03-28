@@ -2,6 +2,13 @@
 
 A Python script to automatically update your Cloudflare DNS record with your current public IP address.
 
+![Python Version](https://img.shields.io/badge/python-%3E%3D3.6-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Cloudflare API](https://img.shields.io/badge/Cloudflare-API%20v4-F6821F)
+![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows-lightgrey)
+![Dependencies](https://img.shields.io/badge/dependencies-requests%20only-informational)
+![Credentials](https://img.shields.io/badge/credentials-scoped%20API%20token-brightgreen)
+
 ## Setup Instructions
 
 ### 1. Install Python Dependencies
